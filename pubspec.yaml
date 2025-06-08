@@ -1,4 +1,4 @@
-name: responsive_helper
+name: figma_scale_helper
 description: "A Flutter utility package for responsive UI scaling based on device dimensions and customizable user-defined scale factors.."
 version: 1.0.0
 homepage: https://github.com/maarlesh/responsive_helper
